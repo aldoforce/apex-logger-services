@@ -1,0 +1,4 @@
+./config
+*.sublime-projet
+*.sublime-settings
+*.logs

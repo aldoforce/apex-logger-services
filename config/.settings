@@ -1,0 +1,20 @@
+{
+    "username": "aldo@aldofernandez.com.dev", 
+    "environment": "developer", 
+    "project_name": "apex-logger-services", 
+    "workspace": "/Users/aldo/dev", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "A1KXGM7WRUVV43L5FGEE1H5ODXVWTVD8", 
+    "metadata_container": "1dcG0000000AXOgIAO", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Document", 
+        "Profile", 
+        "StaticResource"
+    ]
+}
